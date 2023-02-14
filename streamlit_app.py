@@ -9,3 +9,4 @@ streamlit.text('🥗 Batido de col rizada, espinacas y rúcula')
 streamlit.text('🐔 Huevo de gallinas camperas hervidas')
 streamlit.text ('🥑🍞 Tostada de aguacate')
 
+streamlit.header('🍌🥭 Crea tu propio batido de frutas 🥝🍇')
